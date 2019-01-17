@@ -1,4 +1,4 @@
-﻿package org.summercool.hsf.netty.channel;
+package org.summercool.hsf.netty.channel;
 
 import java.net.SocketAddress;
 import java.nio.channels.ClosedChannelException;

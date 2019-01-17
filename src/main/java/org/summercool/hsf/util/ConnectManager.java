@@ -1,4 +1,4 @@
-﻿package org.summercool.hsf.util;
+package org.summercool.hsf.util;
 
 import java.net.SocketAddress;
 import java.text.SimpleDateFormat;

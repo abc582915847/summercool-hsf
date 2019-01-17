@@ -1,4 +1,4 @@
-﻿package org.summercool.hsf.util;
+package org.summercool.hsf.util;
 
 /**
  * @Title: HsfConstants.java

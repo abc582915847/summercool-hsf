@@ -1,4 +1,4 @@
-﻿package org.summercool.hsf.netty.channel;
+package org.summercool.hsf.netty.channel;
 
 /**
  * @ClassName: FlowManager

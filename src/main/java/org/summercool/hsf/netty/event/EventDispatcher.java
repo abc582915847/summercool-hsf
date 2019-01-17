@@ -1,4 +1,4 @@
-﻿package org.summercool.hsf.netty.event;
+package org.summercool.hsf.netty.event;
 
 import java.util.EventListener;
 import java.util.List;

@@ -1,4 +1,4 @@
-﻿package org.summercool.hsf.netty.service;
+package org.summercool.hsf.netty.service;
 
 import java.net.SocketAddress;
 import java.util.ArrayList;

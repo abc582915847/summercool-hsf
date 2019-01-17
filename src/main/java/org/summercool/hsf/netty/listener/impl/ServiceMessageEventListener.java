@@ -1,4 +1,4 @@
-﻿package org.summercool.hsf.netty.listener.impl;
+package org.summercool.hsf.netty.listener.impl;
 
 import org.jboss.netty.channel.ChannelHandlerContext;
 import org.jboss.netty.channel.DefaultExceptionEvent;
