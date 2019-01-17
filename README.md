@@ -1,6 +1,6 @@
-# summercool-hsf
+# Summercool-hsf
 high speed framework.
-###  only for study.
+###  Only for study.
 
 ## 
 [reference](https://code.google.com/archive/p/summercool-hsf/)
